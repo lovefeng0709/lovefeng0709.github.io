@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAGE,eACF,CAEA,qBACE,gBACF","file":"main.e8ae18df.chunk.css","sourcesContent":["html {\r\n  /* rem */\r\n  /* 默认 16px * 62.3% = 10px 方便换算 */\r\n  font-size: 62.5%;\r\n}\r\n/* viewport height ===vh */\r\nhtml body #root .App{\r\n  min-height: 100vh;\r\n}"]}
